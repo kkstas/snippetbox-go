@@ -2,5 +2,11 @@
 .github
 .env
 notes.md
+.DS_Store
+
 
 main
+post_cmd.txt
+pre_cmd.txt
+
+.air.toml
