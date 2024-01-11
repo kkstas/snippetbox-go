@@ -10,5 +10,6 @@ web
 main
 post_cmd.txt
 pre_cmd.txt
+tmp/
 
 .air.toml
