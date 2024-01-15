@@ -13,3 +13,4 @@ pre_cmd.txt
 tmp/
 
 .air.toml
+tls/
